@@ -11,5 +11,5 @@
     "default_popup": "popup.html",
     "name": "CDNCache"
   },
-  "permissions": [ "webRequest", "webRequestBlocking", "*://*/*" ]
+  "permissions": [ "webRequest", "webRequestBlocking", "storage", "*://*/*" ]
 }

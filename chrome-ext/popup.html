@@ -3,13 +3,19 @@
         <script src="jquery-2.1.3.min.js"></script>
         <script src="popup.js"></script>
         <link rel="stylesheet" href="popup.css" />
-
     </head>
     <body>
         <p>
-            <a id="clear-cache" href="javascript:;">Purge Cache</a>
+            Cache is <span id="cache-reachable"></span>
         </p>
-        <p id="message-area"></p>
+
+        <div>
+            <label for="domains">Domains (one per line):</label>
+            <textarea id="domains" rows="10"></textarea>
+        </div>
+
+        <button id="save">Save</button>
+
     </body>
 </html>
 
