@@ -12,7 +12,7 @@ So I said, why not having my all those files cached in my computer?
 
 ## Get it
 
-- Install the Chrome Extension
+- Install the Chrome Extension https://chrome.google.com/webstore/detail/cdncache/cjjmbggfmolglgbakinoejofkgflbibc
 - Clone/download the project
 - Then run:
 
