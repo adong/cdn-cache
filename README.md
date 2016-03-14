@@ -25,7 +25,7 @@ $ python run.py
 
 The domains you specify in the extension config:
 
-![Screen1](https://raw.githubusercontent.com/gbrunacci/gbrunacci.github.io/master/images/cdncache.png)
+![Screen1](https://raw.githubusercontent.com/gbrunacci/gbrunacci.github.io/master/assets/cdncache.png)
 
 ## How it works?
 
@@ -37,5 +37,5 @@ The domains you specify in the extension config:
 ## To Do
 
 * Firefox Extension
-* Support a other cache methods
+* Support other cache methods
 * More config options
